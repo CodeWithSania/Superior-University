@@ -1,0 +1,3 @@
+living room:OFF
+kitchen:OFF
+bedroom:ON
